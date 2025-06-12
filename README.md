@@ -1,2 +1,2 @@
 # Disc-Opt
-Combinatorial / Discrete Bayesian Optimization
+Combinatorial and Discrete Bayesian Optimization
